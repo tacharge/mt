@@ -1,5 +1,5 @@
 module.exports = {
   prefix: "!",
-  owner: "+94783331096",
+  owner: "+9725275656",
   support: "FUCKID",
 };
